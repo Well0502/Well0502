@@ -1,3 +1,4 @@
+#Bem Vindo(a) ao perfil de Well0502
 <div>
   <a href="https://github.com/well0502">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=well502&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -10,8 +11,6 @@
 </div>
  
  <br>
- 
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
  
